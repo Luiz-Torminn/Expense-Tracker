@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Luiz-Torminn/ExpenseTracker/static/css/main.dc835693.chunk.css",
+    "main.js": "/Luiz-Torminn/ExpenseTracker/static/js/main.56b31841.chunk.js",
+    "main.js.map": "/Luiz-Torminn/ExpenseTracker/static/js/main.56b31841.chunk.js.map",
+    "runtime-main.js": "/Luiz-Torminn/ExpenseTracker/static/js/runtime-main.97bfd561.js",
+    "runtime-main.js.map": "/Luiz-Torminn/ExpenseTracker/static/js/runtime-main.97bfd561.js.map",
+    "static/js/2.031b7530.chunk.js": "/Luiz-Torminn/ExpenseTracker/static/js/2.031b7530.chunk.js",
+    "static/js/2.031b7530.chunk.js.map": "/Luiz-Torminn/ExpenseTracker/static/js/2.031b7530.chunk.js.map",
+    "index.html": "/Luiz-Torminn/ExpenseTracker/index.html",
+    "static/css/main.dc835693.chunk.css.map": "/Luiz-Torminn/ExpenseTracker/static/css/main.dc835693.chunk.css.map",
+    "static/js/2.031b7530.chunk.js.LICENSE.txt": "/Luiz-Torminn/ExpenseTracker/static/js/2.031b7530.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97bfd561.js",
+    "static/js/2.031b7530.chunk.js",
+    "static/css/main.dc835693.chunk.css",
+    "static/js/main.56b31841.chunk.js"
+  ]
+}
